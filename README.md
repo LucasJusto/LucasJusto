@@ -1,16 +1,15 @@
-### Hi there 👋
+### <samp> Greetings Visitor!
 
-<!--
-**LucasJusto/LucasJusto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### <samp> My name is Lucas Dimer Justo </samp>
+I am a student of Software Engineering at PUCRS.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 - Studying software development (and more) for Apple platforms at Apple Developer Academy | PUCRS in 2021/2022.
+
+📱 - Some cool projects:
+- My playground approved for WWDC21 Swift Student Challenge [ Quick Decision Trainer ](https://github.com/LucasJusto/QuickDecisionTrainer-WWDC21-ACCEPTED)
+-  My first App at App store [ Devtopia Idle Game at App Store ](https://apps.apple.com/br/app/devtopia-idle-game/id1568154053) || [ Devtopia Idle Game at Github ](https://github.com/LucasJusto/DevtopiaIdleGame) (developed in group with 4 other students in 1 month).
+- My second project [ MatchMaker at GitHub](https://github.com/LucasJusto/Matchmaker) an native iOS App to help gamers find other people to play with.
+
+
+[ <img align="center" src="https://github-readme-stats.vercel.app/api?username=LucasJusto&show_icons=true&theme=tokyonight" alt="Lucas Stats" width="40%" /> ](https://github.com/LucasJusto)
