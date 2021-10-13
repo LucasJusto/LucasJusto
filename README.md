@@ -4,7 +4,7 @@
 I am a student of Software Engineering at PUCRS.
 
 
-💻 - Studying software development (and more) for Apple platforms at Apple Developer Academy | PUCRS in 2021/2022.
+💻 - Studying software development (and more) for Apple platforms at Developer Academy | PUCRS in 2021/2022.
 
 📱 - Some cool projects:
 - My playground approved for WWDC21 Swift Student Challenge [ Quick Decision Trainer ](https://github.com/LucasJusto/QuickDecisionTrainer-WWDC21-ACCEPTED)
